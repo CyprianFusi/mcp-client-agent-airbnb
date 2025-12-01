@@ -1,3 +1,7 @@
+"""
+Streamlit UI for an Airbnb chatbot using MCP and OpenAI.
+"""
+
 import streamlit as st
 import asyncio
 import json

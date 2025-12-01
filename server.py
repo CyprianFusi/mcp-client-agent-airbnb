@@ -1,3 +1,7 @@
+"""
+MCP server that provides tools to save and search memories using OpenAI's vector stores.
+"""
+
 import os
 import tempfile
 import sys

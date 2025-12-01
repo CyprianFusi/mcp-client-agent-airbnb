@@ -1,3 +1,8 @@
+"""
+A chat client that connects to two MCP servers via stdio, combines their tools,
+and allows a user to interact with an LLM that can call tools from either server.
+"""
+
 import asyncio
 import sys
 import traceback
